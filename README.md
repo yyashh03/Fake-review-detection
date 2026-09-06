@@ -18,8 +18,8 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> Supratik Mitra </p>
-    <p><strong>Email ID:</strong> supratik.g37python@gmail.com </p>
+    <p><strong>Name:</strong> Yashveer Singh </p>
+    <p><strong>Email ID:</strong> yashveersingh37python@gmail.com </p>
     <p><strong>College Name:</strong> Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex </p>
     <p><strong>Branch/Specialization :</strong> B.Tech in Computer Science and Engineering (AI & ML) </p>
     <p><strong>College ID:</strong> 25500123169 </p>
