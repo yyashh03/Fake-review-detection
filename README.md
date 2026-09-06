@@ -169,8 +169,6 @@ Our project integrates advanced NLP techniques, comprehensive feature engineerin
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 ## **References**
-
-
 [![Python](https://img.shields.io/badge/Python-3.8-orange)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-2.0.2-blue)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue)](https://pandas.pydata.org/)
