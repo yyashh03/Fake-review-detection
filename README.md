@@ -1,3 +1,65 @@
+<div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+    <img
+        width="180"
+        height="220"
+        alt="Logo - SURE ProEd"
+        src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
+        style="border-radius: 10px;"
+    />
+
+  <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (formerly SURE Trust) 
+      </h1>
+<h2 style="color: #2b6cb0; font-family: Arial;">Skill Upgradation for Rural youth Empowerment Trust</h2>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
+
+<h2 style = "color:#333;"> Student Details </h2>
+<div align = "left" style ="margin: 20px; font-size: 16px;">
+    <p><strong>Name:</strong> Supratik Mitra </p>
+    <p><strong>Email ID:</strong> supratik.g37python@gmail.com </p>
+    <p><strong>College Name:</strong> Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex </p>
+    <p><strong>Branch/Specialization :</strong> B.Tech in Computer Science and Engineering (AI & ML) </p>
+    <p><strong>College ID:</strong> 25500123169 </p>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<h2 style="color:#333;"> Course Details </h2>
+<div align="left" style="margin: 20px; font-size: 16px;">
+    <p><strong>Course Opted:</strong> 6-Month Project-Based Internship in Artificial Intelligence & Machine Learning </p>
+    <p><strong>Instructor Name:</strong> Gaurav Sir </p>
+</div>
+
+<div align="left" style="margin: 20px; font-size: 16px;">
+    <p><strong>Duration:</strong> 6 Months </p>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<h2 style="color:#333;"> Trainer Details </h2>
+
+<div align="left" style="margin: 20px; font-size: 16px;">
+
+<p><strong>Trainer Name:</strong> Gaurav Patel </p>
+<p><strong>Trainer Email ID:</strong>gaurav.patel.gpp@gmail.com </p>
+<p><strong>Trainer Designation:</strong>Data Science Instructor</p>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+
+
+<h2 style="color:#333;"> Projects Completed </h2>
+
+
+
+
+
+
+
+
+
 [![Python](https://img.shields.io/badge/Python-3.8-orange)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-2.0.2-blue)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue)](https://pandas.pydata.org/)
@@ -28,6 +90,9 @@ Welcome to the comprehensive documentation for our Fake Review Detection project
 8. [Conclusion](#conclusion)
 
 ---
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
 
 ## Project Overview
 
@@ -106,5 +171,69 @@ Our experiments are fully tracked using MLflow. For every run, we log:
 ## Conclusion
 
 Our project integrates advanced NLP techniques, comprehensive feature engineering, rigorous experimentation, and robust MLflow-based tracking to build a reproducible system for fake review detection. This documentation provides an end-to-end overview of our process, from data preprocessing and model training to deployment. We encourage you to explore the code repository and MLflow experiment dashboard for more details.
+
+
+
+
+## **Learnings from LST and SST**
+
+LST and SST sessions played an important role in improving both my technical understanding and professional development throughout the internship period. These sessions provided valuable exposure to industry-oriented practices, communication techniques, and structured learning methodologies which helped me become more confident and disciplined in my approach towards project development and teamwork.
+
+Through these sessions, I improved my communication skills, presentation abilities, and interpersonal interaction skills. Participating in discussions, collaborative activities, and learning exercises helped me develop confidence while expressing ideas, explaining technical concepts, and working effectively in team-oriented environments.
+
+The sessions also helped me understand the importance of problem-solving, analytical thinking, time management, and proper documentation practices in real-world project development. I learned how structured planning, consistency, and systematic execution contribute significantly towards successful completion of technical projects and assignments.
+
+In addition, LST and SST sessions provided guidance regarding professional ethics, workplace expectations, collaborative learning, and continuous self-improvement. These learnings helped me maintain a more organized and professional workflow during the development of the IntelliLearn-AI project and strengthened my understanding of practical implementation strategies.
+
+Overall, the LST and SST sessions contributed significantly to my personal growth, professional readiness, and understanding of real-world project environments. The experience gained from these sessions enhanced both my technical confidence and my ability to work responsibly and effectively in academic as well as professional settings.
+
+---
+
+## **Community Services**
+
+During my internship period, I actively participated in community-oriented activities focused on social responsibility and public welfare. These activities helped me understand the importance of contributing positively to society and working collaboratively for community development.
+
+### **Activities Involved**
+
+- **Tree Plantation Drive** – Participated in tree plantation activities near Dunlop, Kolkata and contributed towards promoting environmental awareness and greener surroundings.
+
+- **Food Distribution Activity** – Participated in food distribution activities near Dunlop, Kolkata as part of social service and community support initiatives for needy people.
+
+### **Impact / Contribution**
+
+- Contributed towards environmental improvement through plantation activities.
+- Supported community welfare initiatives by helping in food distribution activities.
+- Improved communication, coordination, teamwork, and social responsibility skills.
+- Gained practical exposure to community service and collaborative volunteering activities.
+--- 
+### **Photos**
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/b8744b2e-de2b-4298-9853-945f9cd665b7" alt="Community Service Photo 1" width="41%">
+
+<img src="https://github.com/user-attachments/assets/e757c5f8-09c6-4e83-88f5-46864d38b89f" alt="Community Service Photo 2" width="41%">
+
+</div>
+---
+
+## **Certificate**
+
+The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+
+<!-- add your certificate image url below (inside src='')-->
+
+<p align="center">
+<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+</p>
+
+---
+
+## **Acknowledgments**
+
+<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+
 
 
