@@ -20,9 +20,9 @@
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> Yashveer Singh </p>
     <p><strong>Email ID:</strong> yashveersingh37python@gmail.com </p>
-    <p><strong>College Name:</strong> Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex </p>
+    <p><strong>College Name:</strong> Noida Institute of Engineering & Technology , Greaater Noida </p>
     <p><strong>Branch/Specialization :</strong> B.Tech in Computer Science and Engineering (AI & ML) </p>
-    <p><strong>College ID:</strong> 25500123169 </p>
+    <p><strong>College ID:</strong> 2401331520215 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
