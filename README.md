@@ -216,9 +216,9 @@ During my internship period, I actively participated in community-oriented activ
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b8744b2e-de2b-4298-9853-945f9cd665b7" alt="Community Service Photo 1" width="41%">
+<img src="https://github.com/yyashh03/Fake-review-detection/blob/main/Assets/Community%20Service.jpg" alt="Community Service Photo 1" width="41%">
 
-<img src="https://github.com/user-attachments/assets/e757c5f8-09c6-4e83-88f5-46864d38b89f" alt="Community Service Photo 2" width="41%">
+<img src="https://github.com/yyashh03/Fake-review-detection/blob/main/Assets/treePlantation.jpg" alt="Community Service Photo 2" width="41%">
 
 </div>
 ---
