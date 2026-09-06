@@ -63,10 +63,6 @@ To capture the nuances of textual data, we explored several embedding techniques
 
 These methods provide diverse representations of the data, enabling our models to learn both syntactic and semantic patterns.
 
-You can view all our datasets created throught out the process here:  
-[Drive link for all the datasets used](https://drive.google.com/file/d/1DNBx44dBOd0kvqR-lWxq74RI5_hsP6pN/view?usp=drive_link)
-
----
 
 ## Modeling Approaches
 
@@ -99,35 +95,12 @@ Our experiments are fully tracked using MLflow. For every run, we log:
 - **Artifacts:** Confusion matrices (as PNG images) and model artifacts.
 - **Datasets:** Using the `mlflow.data` API, our dataset information is logged and appears under the MLflow UI's "Datasets" tab (for MLflow ≥ 2.4). When unavailable, the CSV files are logged as artifacts.
 
-You can view all our experiments on Dagshub through MLflow here:  
-[View MLflow Experiments on Dagshub](https://dagshub.com/malhar.c.prajapati/my-first-repo.mlflow/)
 
-A progress log (`progress_log.csv`) is maintained to ensure experiments are not re-run unnecessarily.
+
 
 ---
 
-## Deployment
 
-The Fake Review Detection web application is deployed and accessible online. Users can enter review text to receive predictions on whether the review is computer-generated or original. The application also provides various text analytics and visualizations for better interpretability.
-
-**Access the deployed web app here:**  
-[Fake Review Detection Web App](https://fake-review-detection-mkgwujmh2b6dzcgb6gka2r.streamlit.app/)
-
----
-
-## Docker Image
-
-We provide a Docker image for easy deployment of the project. The image includes all necessary code and dependencies.
-
-**To download and run the Docker image:**
-
-1. **Pull the Docker Image:**  
-   ```bash
-   docker pull malhar2460/fake_review_detection:latest
-
-2. **Run the Docker Container:**
-   ```bash
-   docker run -p 8501:8501 malhar2460/fake_review_detection:latest
 
 
 ## Conclusion
