@@ -48,26 +48,8 @@
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-
-
 <h2 style="color:#333;"> Projects Completed </h2>
 
-
-
-
-
-
-
-
-
-[![Python](https://img.shields.io/badge/Python-3.8-orange)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-2.0.2-blue)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue)](https://pandas.pydata.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.5.2-yellow)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18-yellow)](https://www.tensorflow.org/)
-[![MLflow](https://img.shields.io/badge/MLflow-2.20.3-lightblue)](https://mlflow.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-green)](https://xgboost.readthedocs.io/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.43.0-red)](https://streamlit.io/)
 
 
 # Fake Review Detection Project
@@ -173,6 +155,30 @@ Our experiments are fully tracked using MLflow. For every run, we log:
 Our project integrates advanced NLP techniques, comprehensive feature engineering, rigorous experimentation, and robust MLflow-based tracking to build a reproducible system for fake review detection. This documentation provides an end-to-end overview of our process, from data preprocessing and model training to deployment. We encourage you to explore the code repository and MLflow experiment dashboard for more details.
 
 
+
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
+<h2 id="project-report" style="color:#333;"> Project Report </h2>
+
+<p>
+  <a href="https://github.com/yyashh03/Fake-review-detection/blob/main/Fake_Review_Detection_Project_Report.pdf" target="_blank">
+    <strong>→ View Full Project Report</strong>
+  </a>
+</p>
+
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
+## **References**
+
+
+[![Python](https://img.shields.io/badge/Python-3.8-orange)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-2.0.2-blue)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.5.2-yellow)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18-yellow)](https://www.tensorflow.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-2.20.3-lightblue)](https://mlflow.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-green)](https://xgboost.readthedocs.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.43.0-red)](https://streamlit.io/)
 
 
 ## **Learnings from LST and SST**
