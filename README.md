@@ -161,7 +161,7 @@ Our project integrates advanced NLP techniques, comprehensive feature engineerin
 <h2 id="project-report" style="color:#333;"> Project Report </h2>
 
 <p>
-  <a href="https://github.com/yyashh03/Fake-review-detection/blob/main/Fake_Review_Detection_Project_Report.pdf" target="_blank">
+  <a href="https://github.com/yyashh03/Fake-review-detection/blob/main/Fake_Review_Detection_Project_FinalReport.pdf" target="_blank">
     <strong>→ View Full Project Report</strong>
   </a>
 </p>
